@@ -10,3 +10,4 @@ statsmodels
 tqdm
 requests
 imblearn
+openpyxl
